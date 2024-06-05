@@ -1,4 +1,4 @@
-# About me
+### About me
 
-- 🔭 I’m currently working on work stuff
+- 🔭 I’m currently working hard and diligently
 - 🌱 I’m currently learning new stuff
